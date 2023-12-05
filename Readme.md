@@ -1,6 +1,6 @@
 #### Pub-Sub Implementation by Epic Games
 
-- Checkout: ```3886057143671db07907a3e69ea1df921c656430```
+- Checkout: [3886057143671db07907a3e69ea1df921c656430](https://github.com/EpicGames/UnrealEngine/commit/3886057143671db07907a3e69ea1df921c656430)
 ---
 
 - [Source](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/GameplayMessageRouter)
